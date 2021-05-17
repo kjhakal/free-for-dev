@@ -613,7 +613,7 @@ Table of Contents
   * [ImprovMX](https://improvmx.com) – Free email forwarding
   * [inumbo.com](http://inumbo.com/) — SMTP based spam filter, free for 10 users
   * [kickbox.io](https://kickbox.io/) — Verify 100 emails free, real-time API available
-  * [mailazy.com](https://mailazy.com/) — 250 emails/day free
+  * [mailazy.com](https://mailazy.com/) — 500 transactional emails/day*(15000 emails/month) free. Upto 50,000 free transactional email/month on need.
   * [mail-tester.com](https://www.mail-tester.com) — Test if email's dns/spf/dkim/dmarc settings are correct, 20 free/month
   * [mailboxlayer.com](https://mailboxlayer.com/) — Email validation and verification JSON API for developers. 1,000 free API requests/month
   * [mailcatcher.me](https://mailcatcher.me/) — Catches mail and serves it through a web interface
@@ -625,7 +625,7 @@ Table of Contents
   * [Mailnesia](https://mailnesia.com) - Free temporary/disposable email, which auto visit registration link.
   * [mailsac.com](https://mailsac.com) - Free API for temporary email testing, free public email hosting, outbound capture, email-to-slack/websocket/webhook (1,500 monthly API limit)
   * [mailtrap.io](https://mailtrap.io/) — Fake SMTP server for development, free plan with 1 inbox, 50 messages, no team member, 2 emails/second, no forward rules
-  * [mail7.io](https://www.mail7.io/) — Free Temp Email Addresses for QA Developers. Create email addresses instantly using Web Interface or API
+  * [mail7.io](https://www.mail7.io/) — Free Temp Email Addresses for QA and Developers. Create email addresses instantly using Web Interface or API
   * [mohmal.com](https://www.mohmal.com/en) — Disposable temporary email
   * [moosend.com](https://moosend.com/) — Mailing list management service. Free account for 6 months for startups
   * [Outlook.com](https://outlook.live.com/owa/) - Free personal email and calendar
